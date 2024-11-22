@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TfrxReport Name="" DataSet="frxDBDataset1" DataSetName="frxDBDataset1" DotMatrixReport="False" IniFile="\Software\Fast Reports" PreviewOptions.Buttons="2047" PreviewOptions.Zoom="1" PrintOptions.Printer="Default" ReportOptions.CreateDate="45618,7863132176" ReportOptions.Description.Text="" ReportOptions.LastChange="45618,7984295718" ScriptLanguage="PascalScript" ScriptText.Text="begin&#13;&#10;&#13;&#10;end." PropData="044C65667403D80003546F70024808446174617365747301010C3400000020446174615365743D22667278444244617461736574312220446174615365744E616D653D2266727844424461746173657431220000095661726961626C65730100055374796C650100">
+  <TfrxReportPage Name="Page1" PaperWidth="210" PaperHeight="297" PaperSize="9" LeftMargin="10" RightMargin="10" TopMargin="10" BottomMargin="10" ColumnWidth="0" ColumnPositions.Text="" Frame.Typ="8" HGuides.Text="" VGuides.Text="">
+    <TfrxMemoView Name="Memo1" Left="188,9765" Top="7,55906" Width="347,71676" Height="45,35436" Font.Charset="1" Font.Color="0" Font.Height="-32" Font.Name="Arial" Font.Style="0" HAlign="haCenter" Memo.Text="данные за окт€брь" ParentFont="False"/>
+    <TfrxMemoView Name="Memo2" Left="45,35436" Top="120,94496" Width="1198,11101" Height="26,45671" CharSpacing="1" DataField="Adress" DataSet="frxDBDataset1" DataSetName="frxDBDataset1" Memo.Text="[frxDBDataset1.&#34;Adress&#34;]"/>
+    <TfrxMemoView Name="Memo4" Left="45,35436" Top="151,1812" Width="166,29932" Height="18,89765" CharSpacing="1" DataField="Ploshad" DataSet="frxDBDataset1" DataSetName="frxDBDataset1" Memo.Text="[frxDBDataset1.&#34;Ploshad&#34;]"/>
+    <TfrxMemoView Name="Memo5" Left="45,35436" Top="181,41744" Width="1198,11101" Height="18,89765" CharSpacing="1" DataField="Ploshad" DataSet="frxDBDataset1" DataSetName="frxDBDataset1" Memo.Text="[frxDBDataset1.&#34;Ploshad&#34;]"/>
+  </TfrxReportPage>
+</TfrxReport>
